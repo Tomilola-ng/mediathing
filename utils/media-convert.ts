@@ -83,10 +83,14 @@ export async function convert(
   }
 
   const fileData = await ffmpeg.readFile(outputPath);
-  const uint8 = new Uint8Array(fileData as ArrayBuffer);
   const outputMime =
     EXT_TO_MIME[toExt] ?? action.file_type;
-  const blob = new Blob([uint8], { type: outputMime });
+  // Convert FileData to proper Uint8Array<ArrayBuffer> for Blob
+  // Create a new ArrayBuffer and copy the data to ensure proper type
+  const uint8Array = fileData instanceof Uint8Array 
+    ? new Uint8Array(Array.from(fileData))
+    : new Uint8Array(0);
+  const blob = new Blob([uint8Array], { type: outputMime });
   const url = URL.createObjectURL(blob);
 
   await ffmpeg.deleteFile(inputPath);
