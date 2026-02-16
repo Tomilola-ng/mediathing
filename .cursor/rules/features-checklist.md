@@ -6,11 +6,11 @@ Use this to track implementation. Check off when the page exists and works end-t
 
 ## Core (MVP)
 
-- [ ] **Home** (`/`) — Hero, feature grid linking to each tool, CTA, no ads
-- [ ] **Extract audio** (`/extract-audio`) — Video in → audio out (format picker)
-- [ ] **Convert video** (`/convert-video`) — Video in → same/different format out
-- [ ] **Convert audio** (`/convert-audio`) — Audio in → different format out
-- [ ] **Convert image** (`/convert-image`) — Image in → different format out
+- [x] **Home** (`/`) — Hero, feature grid linking to each tool, CTA, no ads
+- [x] **Extract audio** (`/extract-audio`) — Video in → audio out (format picker)
+- [x] **Convert video** (`/convert-video`) — Video in → same/different format out
+- [x] **Convert audio** (`/convert-audio`) — Audio in → different format out
+- [x] **Convert image** (`/convert-image`) — Image in → different format out
 
 ---
 
@@ -33,13 +33,13 @@ Use this to track implementation. Check off when the page exists and works end-t
 
 ## Shared / global
 
-- [ ] **FFmpeg integration** — WASM or server API; single place for conversion logic
-- [ ] **Upload component** — Drag-and-drop + file picker, type restrictions per tool
-- [ ] **Format selector** — Dropdown or buttons for output format per tool
-- [ ] **Download** — Trigger download of result; clear filename
-- [ ] **Navigation** — Header/nav linking to Home + all tool pages
+- [x] **FFmpeg integration** — WASM or server API; single place for conversion logic
+- [x] **Upload component** — Drag-and-drop + file picker, type restrictions per tool
+- [x] **Format selector** — Dropdown or buttons for output format per tool
+- [x] **Download** — Trigger download of result; clear filename
+- [x] **Navigation** — Header/nav linking to Home + all tool pages
 - [ ] **Mobile-friendly** — Layout and touch targets work on phones/tablets
-- [ ] **No ads** — No ad scripts or trackers anywhere
+- [x] **No ads** — No ad scripts or trackers anywhere
 
 ---
 
