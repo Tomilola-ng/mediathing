@@ -3,6 +3,7 @@ import { Geist, Geist_Mono, JetBrains_Mono } from "next/font/google";
 import { Nav } from "@/components/nav";
 import { Footer } from "@/components/footer";
 import { PwaInstallPrompt } from "@/components/pwa-install-prompt";
+import { Analytics } from "@vercel/analytics/next"
 import "./globals.css";
 
 const jetbrainsMono = JetBrains_Mono({
@@ -68,6 +69,7 @@ export default function RootLayout({
         <div className="flex-1">{children}</div>
         <Footer />
         <PwaInstallPrompt />
+        <Analytics />
       </body>
     </html>
   );
