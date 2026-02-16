@@ -63,7 +63,7 @@ function getOutputFormats(
   }
 }
 
-function fileToAction(file: File): Action {
+function fileToAction(file: File, defaultFrom?: string, defaultTo?: string): Action {
   const name = file.name;
   const ext = name.split(".").pop()?.toLowerCase() || "";
   const fileType =
@@ -73,8 +73,8 @@ function fileToAction(file: File): Action {
     file,
     file_name: name,
     file_size: file.size,
-    from: ext,
-    to: null,
+    from: defaultFrom || ext,
+    to: defaultTo || null,
     file_type: fileType,
     is_converting: false,
     is_converted: false,
@@ -84,7 +84,13 @@ function fileToAction(file: File): Action {
   };
 }
 
-export function MediaZone({ tool }: { tool: ToolType }) {
+interface MediaZoneProps {
+  tool: ToolType;
+  defaultFrom?: string;
+  defaultTo?: string;
+}
+
+export function MediaZone({ tool, defaultFrom, defaultTo }: MediaZoneProps) {
   const ffmpegRef = React.useRef<FFmpeg | null>(null);
   const actionsRef = React.useRef<Action[]>([]);
   const [isLoaded, setIsLoaded] = React.useState(false);
@@ -124,10 +130,10 @@ export function MediaZone({ tool }: { tool: ToolType }) {
             return false;
         }
       });
-      const newActions = valid.map(fileToAction);
+      const newActions = valid.map((file) => fileToAction(file, defaultFrom, defaultTo));
       setActions((prev) => [...prev, ...newActions]);
     },
-    [tool]
+    [tool, defaultFrom, defaultTo]
   );
 
   const handleDrop = React.useCallback(

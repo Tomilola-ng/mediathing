@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { getAllSlugs } from "@/lib/conversions";
 
 const baseUrl =
   process.env.NEXT_PUBLIC_SITE_URL ??
@@ -13,11 +14,23 @@ const routes = [
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  return routes.map(({ path, priority, changeFrequency }) => ({
+  const staticRoutes = routes.map(({ path, priority, changeFrequency }) => ({
     url: `${baseUrl}${path}`,
     lastModified: new Date(),
     changeFrequency,
     priority,
     images: path === "/" ? [`${baseUrl}/og-image.png`] : undefined,
   }));
+
+  // Add dynamic conversion routes
+  const conversionSlugs = getAllSlugs();
+  const conversionRoutes: MetadataRoute.Sitemap = conversionSlugs.map((slug) => ({
+    url: `${baseUrl}/convert/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly",
+    priority: 0.8,
+    images: [`${baseUrl}/convert/${slug}/opengraph-image`],
+  }));
+
+  return [...staticRoutes, ...conversionRoutes];
 }

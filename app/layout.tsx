@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, JetBrains_Mono } from "next/font/google";
 import { Nav } from "@/components/nav";
+import { Footer } from "@/components/footer";
 import { PwaInstallPrompt } from "@/components/pwa-install-prompt";
 import "./globals.css";
 
@@ -61,10 +62,11 @@ export default function RootLayout({
   return (
     <html lang="en" className={jetbrainsMono.variable}>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased flex min-h-screen flex-col`}
       >
         <Nav />
-        {children}
+        <div className="flex-1">{children}</div>
+        <Footer />
         <PwaInstallPrompt />
       </body>
     </html>

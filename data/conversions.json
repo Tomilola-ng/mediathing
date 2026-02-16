@@ -1,0 +1,287 @@
+[
+  {
+    "slug": "png-webp",
+    "fromFormat": "PNG",
+    "toFormat": "WebP",
+    "category": "image",
+    "title": "Convert PNG to WebP - Free Online Converter | MediaThing",
+    "description": "Convert PNG images to WebP format instantly in your browser. Reduce file size by up to 30% while maintaining quality. No uploads, no installs, completely free.",
+    "keywords": ["png to webp", "convert png", "webp converter", "image converter", "png webp"],
+    "article": "## Why Convert PNG to WebP?\n\nWebP is a modern image format developed by Google that provides superior compression compared to PNG. Converting PNG to WebP can reduce file sizes by 25-35% while maintaining the same visual quality.\n\n### Benefits of WebP Format\n\n- **Smaller File Sizes**: WebP images are typically 25-35% smaller than PNG files\n- **Better Performance**: Faster page loads and reduced bandwidth usage\n- **Lossless & Lossy Support**: Choose between lossless quality or optimized compression\n- **Transparency Support**: WebP supports alpha channels just like PNG\n- **Wide Browser Support**: Supported by all modern browsers\n\n### Common Use Cases\n\n- **Web Development**: Optimize images for faster website loading\n- **Mobile Apps**: Reduce app size by converting PNG assets to WebP\n- **Email Marketing**: Smaller images mean faster email delivery\n- **E-commerce**: Faster product image loading improves user experience\n- **Social Media**: Upload smaller files while maintaining quality",
+    "benefits": [
+      "25-35% smaller file sizes",
+      "Maintains transparency support",
+      "Faster page loads",
+      "Better SEO performance"
+    ],
+    "useCases": [
+      "Web development and optimization",
+      "Mobile app asset optimization",
+      "Email marketing campaigns",
+      "E-commerce product images"
+    ]
+  },
+  {
+    "slug": "jpeg-webp",
+    "fromFormat": "JPEG",
+    "toFormat": "WebP",
+    "category": "image",
+    "title": "Convert JPEG to WebP - Free Online Converter | MediaThing",
+    "description": "Convert JPEG images to WebP format online. Reduce file size by up to 30% with better compression. Free, no uploads required, works entirely in your browser.",
+    "keywords": ["jpeg to webp", "jpg to webp", "convert jpeg", "webp converter", "image optimization"],
+    "article": "## Why Convert JPEG to WebP?\n\nWebP offers superior compression compared to JPEG, typically reducing file sizes by 25-30% while maintaining similar or better image quality. This makes it ideal for web optimization.\n\n### Benefits of WebP Format\n\n- **Better Compression**: 25-30% smaller files than JPEG\n- **Improved Quality**: Better quality at the same file size\n- **Faster Loading**: Smaller files mean faster page loads\n- **Modern Standard**: Supported by all major browsers\n- **SEO Benefits**: Faster sites rank better in search engines\n\n### Common Use Cases\n\n- **Website Optimization**: Improve page load times\n- **Blog Images**: Reduce bandwidth usage\n- **Product Photography**: Optimize e-commerce images\n- **Social Media**: Upload smaller, faster-loading images\n- **Content Delivery**: Reduce CDN costs",
+    "benefits": [
+      "25-30% smaller file sizes",
+      "Better quality at same size",
+      "Faster page loads",
+      "Improved SEO rankings"
+    ],
+    "useCases": [
+      "Website image optimization",
+      "Blog and content images",
+      "E-commerce product photos",
+      "Social media content"
+    ]
+  },
+  {
+    "slug": "webp-png",
+    "fromFormat": "WebP",
+    "toFormat": "PNG",
+    "category": "image",
+    "title": "Convert WebP to PNG - Free Online Converter | MediaThing",
+    "description": "Convert WebP images to PNG format instantly. Preserve transparency and quality. Free browser-based converter, no uploads required.",
+    "keywords": ["webp to png", "convert webp", "png converter", "image converter"],
+    "article": "## Why Convert WebP to PNG?\n\nWhile WebP offers better compression, sometimes you need PNG format for compatibility with older software, specific design tools, or when transparency preservation is critical.\n\n### Benefits of PNG Format\n\n- **Universal Compatibility**: Works with all software and browsers\n- **Lossless Quality**: Perfect for graphics and screenshots\n- **Transparency Support**: Full alpha channel support\n- **Editing Friendly**: Works with all image editors\n- **Print Ready**: Suitable for high-quality printing\n\n### Common Use Cases\n\n- **Design Work**: Compatibility with design software\n- **Screenshots**: Preserve exact pixel quality\n- **Graphics**: Logos and icons with transparency\n- **Print Media**: High-quality printing requirements\n- ",
+    "benefits": [
+      "Universal compatibility",
+      "Lossless quality",
+      "Full transparency support",
+      "Works with all editors"
+    ],
+    "useCases": [
+      "Design and graphics work",
+      "Screenshot preservation",
+      "Logo and icon creation",
+      "Print media preparation"
+    ]
+  },
+  {
+    "slug": "jpg-png",
+    "fromFormat": "JPEG",
+    "toFormat": "PNG",
+    "category": "image",
+    "title": "Convert JPEG to PNG - Free Online Converter | MediaThing",
+    "description": "Convert JPEG/JPG images to PNG format online. Preserve quality and add transparency support. Free converter, no uploads required.",
+    "keywords": ["jpeg to png", "jpg to png", "convert jpeg", "png converter"],
+    "article": "## Why Convert JPEG to PNG?\n\nConverting JPEG to PNG is useful when you need lossless quality, transparency support, or compatibility with design software that requires PNG format.\n\n### Benefits of PNG Format\n\n- **Lossless Compression**: No quality loss during conversion\n- **Transparency Support**: Add alpha channels for transparent backgrounds\n- **Design Compatibility**: Works with all design software\n- **High Quality**: Perfect for graphics and screenshots\n- **Print Ready**: Suitable for professional printing\n\n### Common Use Cases\n\n- **Adding Transparency**: Convert photos for transparent backgrounds\n- **Design Projects**: Compatibility with design tools\n- **Screenshots**: Preserve exact pixel quality\n- **Graphics**: Logos, icons, and illustrations\n- ",
+    "benefits": [
+      "Lossless quality",
+      "Transparency support",
+      "Design software compatible",
+      "Print ready"
+    ],
+    "useCases": [
+      "Adding transparency to images",
+      "Design and graphics work",
+      "Screenshot preservation",
+      "Logo creation"
+    ]
+  },
+  {
+    "slug": "png-jpeg",
+    "fromFormat": "PNG",
+    "toFormat": "JPEG",
+    "category": "image",
+    "title": "Convert PNG to JPEG - Free Online Converter | MediaThing",
+    "description": "Convert PNG images to JPEG format online. Reduce file size while maintaining good quality. Free browser-based converter.",
+    "keywords": ["png to jpeg", "png to jpg", "convert png", "jpeg converter"],
+    "article": "## Why Convert PNG to JPEG?\n\nConverting PNG to JPEG reduces file size significantly, making it ideal for photos and images where transparency isn't needed. JPEG is perfect for photographs and complex images.\n\n### Benefits of JPEG Format\n\n- **Smaller File Sizes**: Typically 50-80% smaller than PNG for photos\n- **Universal Support**: Works everywhere, all devices and browsers\n- **Photo Optimized**: Perfect format for photographs\n- **Fast Loading**: Smaller files load faster\n- **Storage Efficient**: Save storage space\n\n### Common Use Cases\n\n- **Photography**: Optimize photo file sizes\n- **Web Images**: Reduce bandwidth usage\n- **Email Attachments**: Smaller files for email\n- **Social Media**: Faster uploads and sharing\n- ",
+    "benefits": [
+      "50-80% smaller files",
+      "Universal compatibility",
+      "Photo optimized",
+      "Storage efficient"
+    ],
+    "useCases": [
+      "Photo optimization",
+      "Web image optimization",
+      "Email attachments",
+      "Social media sharing"
+    ]
+  },
+  {
+    "slug": "gif-webp",
+    "fromFormat": "GIF",
+    "toFormat": "WebP",
+    "category": "image",
+    "title": "Convert GIF to WebP - Free Online Converter | MediaThing",
+    "description": "Convert GIF images to WebP format. Reduce file size by up to 50% while maintaining animation. Free online converter.",
+    "keywords": ["gif to webp", "convert gif", "webp converter", "animated webp"],
+    "article": "## Why Convert GIF to WebP?\n\nWebP supports animation and offers significantly better compression than GIF. Converting animated GIFs to WebP can reduce file sizes by 30-50% while maintaining the same animation quality.\n\n### Benefits of WebP Animation\n\n- **Smaller File Sizes**: 30-50% reduction compared to GIF\n- **Better Quality**: More colors and smoother animations\n- **Faster Loading**: Smaller files load faster\n- **Modern Format**: Supported by all modern browsers\n- **SEO Friendly**: Faster pages rank better\n\n### Common Use Cases\n\n- **Web Animations**: Optimize animated images for websites\n- **Social Media**: Smaller animated files\n- **Email Marketing**: Faster loading animated content\n- ",
+    "benefits": [
+      "30-50% smaller files",
+      "Better animation quality",
+      "More color support",
+      "Faster loading"
+    ],
+    "useCases": [
+      "Web animation optimization",
+      "Social media content",
+      "Email marketing",
+      "Website performance"
+    ]
+  },
+  {
+    "slug": "mp4-webm",
+    "fromFormat": "MP4",
+    "toFormat": "WebM",
+    "category": "video",
+    "title": "Convert MP4 to WebM - Free Online Converter | MediaThing",
+    "description": "Convert MP4 videos to WebM format online. Optimize for web with smaller file sizes. Free browser-based converter, no uploads required.",
+    "keywords": ["mp4 to webm", "convert mp4", "webm converter", "video converter"],
+    "article": "## Why Convert MP4 to WebM?\n\nWebM is an open-source video format optimized for web delivery. Converting MP4 to WebM can reduce file sizes by 20-30% while maintaining good quality, making it ideal for web video.\n\n### Benefits of WebM Format\n\n- **Smaller File Sizes**: 20-30% reduction compared to MP4\n- **Web Optimized**: Designed specifically for web delivery\n- **Open Source**: Royalty-free format\n- **HTML5 Native**: Native browser support\n- **Better Compression**: Efficient VP8/VP9 codec\n\n### Common Use Cases\n\n- **Web Video**: Optimize videos for websites\n- **HTML5 Video**: Native browser playback\n- **Video Streaming**: Reduce bandwidth costs\n- ",
+    "benefits": [
+      "20-30% smaller files",
+      "Web optimized",
+      "Open source",
+      "HTML5 native"
+    ],
+    "useCases": [
+      "Web video optimization",
+      "HTML5 video players",
+      "Video streaming",
+      "Website performance"
+    ]
+  },
+  {
+    "slug": "webm-mp4",
+    "fromFormat": "WebM",
+    "toFormat": "MP4",
+    "category": "video",
+    "title": "Convert WebM to MP4 - Free Online Converter | MediaThing",
+    "description": "Convert WebM videos to MP4 format online. Universal compatibility for all devices and players. Free converter, no uploads required.",
+    "keywords": ["webm to mp4", "convert webm", "mp4 converter", "video converter"],
+    "article": "## Why Convert WebM to MP4?\n\nMP4 is the most widely supported video format. Converting WebM to MP4 ensures compatibility with all devices, media players, and editing software.\n\n### Benefits of MP4 Format\n\n- **Universal Compatibility**: Works on all devices and players\n- **Editing Support**: Works with all video editing software\n- **Mobile Friendly**: Native support on iOS and Android\n- **Social Media**: Required format for many platforms\n- **Professional Standard**: Industry standard format\n\n### Common Use Cases\n\n- **Device Compatibility**: Play on all devices\n- **Video Editing**: Import into editing software\n- **Social Media**: Upload to platforms\n- ",
+    "benefits": [
+      "Universal compatibility",
+      "Editing software support",
+      "Mobile device support",
+      "Social media ready"
+    ],
+    "useCases": [
+      "Device compatibility",
+      "Video editing",
+      "Social media uploads",
+      "Professional workflows"
+    ]
+  },
+  {
+    "slug": "mp4-mkv",
+    "fromFormat": "MP4",
+    "toFormat": "MKV",
+    "category": "video",
+    "title": "Convert MP4 to MKV - Free Online Converter | MediaThing",
+    "description": "Convert MP4 videos to MKV format online. Preserve multiple audio tracks and subtitles. Free browser-based converter.",
+    "keywords": ["mp4 to mkv", "convert mp4", "mkv converter", "video converter"],
+    "article": "## Why Convert MP4 to MKV?\n\nMKV (Matroska) is a flexible container format that supports multiple audio tracks, subtitles, and chapters. Converting MP4 to MKV is useful for preserving all media tracks.\n\n### Benefits of MKV Format\n\n- **Multiple Audio Tracks**: Support for multiple languages\n- **Subtitle Support**: Embedded subtitle tracks\n- **Chapter Support**: Chapter markers for navigation\n- **Flexible Container**: Supports various codecs\n- **Open Source**: Free and open format\n\n### Common Use Cases\n\n- **Multi-language Content**: Preserve multiple audio tracks\n- **Subtitle Preservation**: Keep embedded subtitles\n- **Media Archiving**: Flexible container for storage\n- ",
+    "benefits": [
+      "Multiple audio tracks",
+      "Subtitle support",
+      "Chapter markers",
+      "Flexible container"
+    ],
+    "useCases": [
+      "Multi-language videos",
+      "Subtitle preservation",
+      "Media archiving",
+      "Professional workflows"
+    ]
+  },
+  {
+    "slug": "mp3-wav",
+    "fromFormat": "MP3",
+    "toFormat": "WAV",
+    "category": "audio",
+    "title": "Convert MP3 to WAV - Free Online Converter | MediaThing",
+    "description": "Convert MP3 audio files to WAV format online. Uncompressed audio quality for professional use. Free converter, no uploads required.",
+    "keywords": ["mp3 to wav", "convert mp3", "wav converter", "audio converter"],
+    "article": "## Why Convert MP3 to WAV?\n\nWAV is an uncompressed audio format that preserves the original audio quality. Converting MP3 to WAV is useful for professional audio work, editing, or when you need lossless quality.\n\n### Benefits of WAV Format\n\n- **Lossless Quality**: Uncompressed audio\n- **Professional Standard**: Industry standard format\n- **Editing Friendly**: Works with all audio editors\n- **High Fidelity**: Preserves original quality\n- **Universal Support**: Works everywhere\n\n### Common Use Cases\n\n- **Audio Editing**: Import into editing software\n- **Professional Production**: Studio quality audio\n- ",
+    "benefits": [
+      "Lossless quality",
+      "Professional standard",
+      "Editing compatible",
+      "High fidelity"
+    ],
+    "useCases": [
+      "Audio editing",
+      "Professional production",
+      "Studio work",
+      "Quality preservation"
+    ]
+  },
+  {
+    "slug": "wav-mp3",
+    "fromFormat": "WAV",
+    "toFormat": "MP3",
+    "category": "audio",
+    "title": "Convert WAV to MP3 - Free Online Converter | MediaThing",
+    "description": "Convert WAV audio files to MP3 format online. Reduce file size by 90% while maintaining good quality. Free browser-based converter.",
+    "keywords": ["wav to mp3", "convert wav", "mp3 converter", "audio converter"],
+    "article": "## Why Convert WAV to MP3?\n\nMP3 is the most popular audio format with excellent compression. Converting WAV to MP3 reduces file sizes by 85-90% while maintaining good audio quality, making it perfect for sharing and storage.\n\n### Benefits of MP3 Format\n\n- **Small File Sizes**: 85-90% smaller than WAV\n- **Universal Support**: Plays on all devices\n- **Portable**: Easy to share and store\n- **Good Quality**: High-quality compression\n- **Standard Format**: Most widely used audio format\n\n### Common Use Cases\n\n- **Music Sharing**: Smaller files for sharing\n- **Portable Players**: Compatible with all devices\n- **Storage Optimization**: Save storage space\n- ",
+    "benefits": [
+      "85-90% smaller files",
+      "Universal compatibility",
+      "Easy sharing",
+      "Storage efficient"
+    ],
+    "useCases": [
+      "Music sharing",
+      "Portable devices",
+      "Storage optimization",
+      "Online distribution"
+    ]
+  },
+  {
+    "slug": "mp3-flac",
+    "fromFormat": "MP3",
+    "toFormat": "FLAC",
+    "category": "audio",
+    "title": "Convert MP3 to FLAC - Free Online Converter | MediaThing",
+    "description": "Convert MP3 audio to FLAC format online. Note: Converting from lossy MP3 to lossless FLAC won't restore quality, but preserves current quality losslessly.",
+    "keywords": ["mp3 to flac", "convert mp3", "flac converter", "lossless audio"],
+    "article": "## Why Convert MP3 to FLAC?\n\nFLAC is a lossless audio format. While converting MP3 to FLAC won't restore the original quality (since MP3 is lossy), it preserves the current quality losslessly and is useful for archiving.\n\n### Benefits of FLAC Format\n\n- **Lossless Compression**: No quality loss\n- **Smaller than WAV**: Compressed but lossless\n- **Metadata Support**: Rich metadata support\n- **Open Source**: Free and open format\n- **Archiving**: Good for long-term storage\n\n### Common Use Cases\n\n- **Audio Archiving**: Long-term storage\n- ",
+    "benefits": [
+      "Lossless compression",
+      "Smaller than WAV",
+      "Rich metadata",
+      "Open source"
+    ],
+    "useCases": [
+      "Audio archiving",
+      "Quality preservation",
+      "Professional workflows"
+    ]
+  },
+  {
+    "slug": "flac-mp3",
+    "fromFormat": "FLAC",
+    "toFormat": "MP3",
+    "category": "audio",
+    "title": "Convert FLAC to MP3 - Free Online Converter | MediaThing",
+    "description": "Convert FLAC audio files to MP3 format online. Reduce file size by 80-90% for sharing and portable devices. Free converter.",
+    "keywords": ["flac to mp3", "convert flac", "mp3 converter", "audio converter"],
+    "article": "## Why Convert FLAC to MP3?\n\nConverting FLAC to MP3 reduces file sizes significantly (80-90%) while maintaining good audio quality. This is ideal for portable devices, sharing, or when storage space is limited.\n\n### Benefits of MP3 Format\n\n- **Small File Sizes**: 80-90% reduction\n- **Universal Compatibility**: Plays everywhere\n- **Portable**: Perfect for mobile devices\n- **Sharing Friendly**: Easy to share online\n- **Good Quality**: High-quality compression\n\n### Common Use Cases\n\n- **Portable Devices**: Smaller files for phones/players\n- **Online Sharing**: Easy file sharing\n- **Storage Optimization**: Save space\n- ",
+    "benefits": [
+      "80-90% smaller files",
+      "Universal compatibility",
+      "Portable device friendly",
+      "Easy sharing"
+    ],
+    "useCases": [
+      "Portable music players",
+      "Online sharing",
+      "Storage optimization",
+      "Mobile devices"
+    ]
+  }
+]
