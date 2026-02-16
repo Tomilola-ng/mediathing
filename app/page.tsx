@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import {
   Card,
   CardContent,
@@ -45,24 +46,35 @@ const tools = [
 export default function HomePage() {
   return (
     <main className="container mx-auto px-4 py-16">
-      <section className="mx-auto max-w-2xl space-y-8 text-center">
-        <h1 className="text-4xl font-bold tracking-tight md:text-5xl">
-          Convert media in your browser
-        </h1>
-        <p className="text-muted-foreground text-lg">
-          Open-source FFmpeg for everyone. No uploads, no installs, no ads.
-          Everything runs locally in your browser.
-        </p>
-        <Button asChild size="lg">
-          <Link href="/extract-audio">
-            Try Extract Audio
-            <ArrowRightIcon className="size-4" />
-          </Link>
-        </Button>
+      <section className="mx-auto max-w-4xl space-y-8">
+        <div className="flex items-start">
+          <Image
+            src="/logo.png"
+            alt="MediaThing Logo"
+            width={120}
+            height={120}
+            className="aspect-square w-24 h-24 object-contain border-2 border-primary"
+          />
+        </div>
+        <div className="space-y-8">
+          <h1 className="text-4xl font-bold tracking-tight md:text-5xl">
+            Convert media in your browser
+          </h1>
+          <p className="text-muted-foreground text-lg">
+            Open-source FFmpeg for everyone. No uploads, no installs, no ads.
+            Everything runs locally in your browser.
+          </p>
+          <Button asChild size="lg">
+            <Link href="/extract-audio">
+              Try Extract Audio
+              <ArrowRightIcon className="size-4" />
+            </Link>
+          </Button>
+        </div>
       </section>
 
       <section className="mx-auto mt-20 max-w-4xl">
-        <h2 className="text-muted-foreground mb-6 text-center text-sm font-medium uppercase tracking-wider">
+        <h2 className="text-primary mb-6 text-sm font-medium uppercase tracking-wider">
           Tools
         </h2>
         <div className="grid gap-6 sm:grid-cols-2">
